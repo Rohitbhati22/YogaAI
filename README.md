@@ -5,7 +5,7 @@ YogaAI is a ML5.js and PJ5.js Library based AI Yoga Trainer and Platfrom for Yog
 ### Site UI 🥇
 ![Home ScreenShot](https://github.com/Rohitbhati22/YogaAI/blob/main/Images/home.png?raw=true)
 ![AI ScreenShot](https://github.com/Rohitbhati22/YogaAI/blob/main/Images/ai.png?raw=true)
-![Trainer ScreenShot](https://github.com/Rohitbhati22/YogaAI/blob/main/Images/traner.png?raw=true)
+![Trainer ScreenShot](https://github.com/Rohitbhati22/YogaAI/blob/main/Images/trane.png?raw=true)
 ![Profile ScreenShot](https://github.com/Rohitbhati22/YogaAI/blob/main/Images/profile.png?raw=true)
 
 
