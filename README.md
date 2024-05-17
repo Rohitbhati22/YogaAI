@@ -28,3 +28,4 @@ YogaAI is a free and open source library, and we appreciate any help you're will
 
 ## License 📌
 YogaAI is licensed under the MIT License.
+
